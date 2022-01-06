@@ -17,14 +17,24 @@ try:
 		print()
 	'''
 	
-	all_phones=data.find_all("div",class_="stack-inline m-b-xl flex-grid prdts-cnt")
+	all_phones=data.find("div",class_="stack-inline m-b-xl flex-grid prdts-cnt")
 	#print(all_phones)
-
-	for phone in all_phones:
-		name=phone.find("a",class_="productSKULink ellips-line nav--snhdr ttl-height m-b-xs txt-al-c m-t-m txt-m ellips-line-ell-2 product_link-105700")
-		price=phone.find("span",class_="d-block txt-al-c")
-		print(name.text,price.text)
-
+	i=1
+	try:
+		for phone in all_phones:
+			#print(i,"\n\n",phone,"\n\n",phone.text)
+			#break
+			name=phone.a
+			price=phone.find("span",class_="d-block txt-al-c") #handle "None" type issue
+			print(i,"\n\n",name,"\n\n",name.text,"\n\n",price,"\n\n",price.text)
+			phone_dtls=phone.find_all("li",class_="m-v-xs m-r-xs v-al-top")
+			for feat in phone_dtls:
+				print("\n\n",feat.text)
+			i=i+1		
+			print("==================================")
+			print()
+	except:
+		print("Error") # how to continue on None type error
 	
 	
 except Exception as exp:
