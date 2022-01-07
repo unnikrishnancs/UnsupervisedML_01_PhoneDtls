@@ -3,7 +3,8 @@ import requests
 import pandas as pd
 import re
 
-url="https://pricebaba.com/mobile/pricelist/all-mobiles-sold-in-india"
+#url="https://pricebaba.com/mobile/pricelist/all-mobiles-sold-in-india"
+url="https://pricebaba.com/mobile/pricelist/all-mobiles-sold-in-india?page=3"
 
 try:
 	response=requests.get(url)
@@ -119,7 +120,7 @@ try:
 	print(dtls_df)
 	
 	#export as CSV file
-	dtls_df.to_csv("phone_details.csv",index=False)
+	dtls_df.to_csv("phone_details_page3.csv",index=False)
 	print("\n Exported dataframe to CSV file \n")
 	
 	

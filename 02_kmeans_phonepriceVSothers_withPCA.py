@@ -3,19 +3,21 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 import matplotlib.pyplot as plt
 import numpy as np
+from sklearn.decomposition import PCA
 
 
 #import csv file
 data=pd.read_csv("phone_details.csv")
-
-#extract two columns
-yaxis="Battery (in mAh) ->"
-data=data.iloc[:,[1,5]]
-
-
+data=data.iloc[:,[1,2,4,5]] #ignore 'camera' for now
 #data.info()
 print()
 print(data.head())
+
+# Include all feature and use PCA to extract two principal components
+#apply PCA
+pca=PCA(2)
+data=pca.fit_transform(data)
+
 
 #plot the raw data
 '''
@@ -46,6 +48,10 @@ print()
 labels=model.labels_
 print("model.labels_ \n",labels)
 
+data=pd.DataFrame(data=data)
+data.columns=["PC1","PC2"]
+print(data)
+
 data.insert(2,"label",labels)
 print(type(data),data)
 
@@ -56,12 +62,6 @@ for i in np.unique(labels):
 plt.legend()
 
 plt.scatter(model.cluster_centers_[:,0],model.cluster_centers_[:,1],s=100,c='red')
-
-plt.xlabel("Mobile Price -> ")
-plt.ylabel(yaxis)
-plt.title("Mobile Price Vs Features of phone")
-plt.tight_layout()
-
 plt.show()
 
 
