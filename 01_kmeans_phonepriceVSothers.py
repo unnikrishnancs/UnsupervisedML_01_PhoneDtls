@@ -8,6 +8,14 @@ import numpy as np
 #import csv file
 data=pd.read_csv("phone_details.csv")
 
+#to do
+'''
+capture N/A,""  as nan while importing
+RAM column..handle junk values
+drop nan values...can you do imputation
+RAM column...handle "MBRAM"
+'''
+
 #extract two columns
 yaxis="Battery (in mAh) ->"
 data=data.iloc[:,[1,5]]

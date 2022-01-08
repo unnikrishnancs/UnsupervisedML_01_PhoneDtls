@@ -4,7 +4,7 @@ import pandas as pd
 import re
 
 #url="https://pricebaba.com/mobile/pricelist/all-mobiles-sold-in-india"
-url="https://pricebaba.com/mobile/pricelist/all-mobiles-sold-in-india?page=3"
+url="https://pricebaba.com/mobile/pricelist/all-mobiles-sold-in-india?page=16"
 
 try:
 	response=requests.get(url)
@@ -116,11 +116,11 @@ try:
 
 	#concat the series into a dataframe
 	dtls_df=pd.concat([phone_name,phone_price,screensize,camera,RAM,battery],axis=1)
-	dtls_df.columns=["PhoneName","Prize (in Rs.)","screensize (in inches)","camera (no./mp)","RAM (in GB)","battery (in mah)"]
+	dtls_df.columns=["PhoneName","Prize (in Rs.)","screensize (in inches)","camera (in no./mp)","RAM (in GB)","battery (in mah)"]
 	print(dtls_df)
 	
 	#export as CSV file
-	dtls_df.to_csv("phone_details_page3.csv",index=False)
+	dtls_df.to_csv("phone_details_page16.csv",index=False)
 	print("\n Exported dataframe to CSV file \n")
 	
 	

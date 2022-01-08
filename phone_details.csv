@@ -1,4 +1,4 @@
-PhoneName,Prize (in Rs.),screensize (in inches),camera (no./mp),RAM (in GB),battery (in mah)
+PhoneName,Prize (in Rs.),screensize (in inches),camera (in no./mp),RAM (in GB),battery (in mah)
 Realme Narzo 50A,11499,6.5,Triple,4,6000
 Realme Narzo 50A 128GB,12499,6.5,Triple,4,6000
 OnePlus Nord 2,27999,6.43,Triple,6,4500
@@ -119,4 +119,524 @@ Vivo V21e 5G,22216,6.44,Dual,8,4000
 Samsung Galaxy A52s 5G,31499,6.5,Quad,6,4500
 Infinix Hot 10S,9999,6.82,Dual,4,6000
 Realme GT Master Edition 5G 8GB RAM,25980,6.43,Triple,8,4300
+Realme X7,19999,6.4,Triple,6,4310
+Xiaomi Redmi 9i Sport 128GB,9997,6.53,13MP,4,5000
+Realme 9,16499,6.5,Quad,6,5000
+Realme GT 5G,33990,6.43,Triple,8,4500
+Realme Narzo 30 5G,16999,6.5,Triple,6,5000
+Realme Narzo 30 Pro,16999,6.5,Triple,6,5000
+Realme GT Master Edition 5G 256GB,27999,6.43,Triple,8,4300
+Vivo Y73 2021,20990,6.44,Triple,8,4000
+Samsung Galaxy A12,12318,6.5,Quad,4,5000
+Reliance JioPhone Next,6449,5.45,13MP,2,3500
+Xiaomi Redmi Note 11T 5G,16999,6.6,Dual,6,5000
+Motorola G31,12999,6.4,Triple,4,5000
+OPPO F19 Pro,20950,6.43,Quad,8,4310
+Xiaomi Mi 11 Ultra,69999,6.81,Triple,12,5000
+Xiaomi Redmi K40,N/A,6.67,Triple,6,4520
+Realme Q3i,11590,6.5,Triple,4,5000
+Poco POCO X3 Pro 8GB RAM,20999,6.67,Quad,8,5160
+Xiaomi Mi 11X 8GB RAM,26294,6.67,Triple,8,4520
+OnePlus 9R 256GB,43999,6.55,Quad,12,4500
+Tecno Pova 2,11500,6.95,Quad,4,7000
+Vivo X70 Pro,46990,6.56,Quad,8,4450
+Xiaomi Redmi 9A Sport,7199,6.53,13MP,2,5000
+Vivo Y12s,9599,6.51,Dual,3,5000
+Realme C21,8999,6.5,Triple,3,5000
+Vivo V20,20999,6.44,Triple,8,4000
+Realme 8 5G 8GB RAM,17499,6.5,Triple,8,5000
+Tecno Spark 7T 128GB,10599,6.52,48MP,4,6000
+Infinix Hot 10S 6GB RAM,10999,6.82,Dual,6,6000
+Apple iPhone 12,53999,6.1,Dual,4,2815
+Xiaomi Redmi Note 10 Pro Max 128GB,19999,6.67,Quad,6,5020
+OnePlus Nord 3 5G,27999,6.43,Triple,8,4299
+Samsung Galaxy M51,23490,6.7,Quad,6,7000
+Motorola Edge 20,27999,6.7,Triple,8,4000
+Xiaomi Mi 10i 8GB RAM,23999,6.67,Quad,8,4820
+OPPO F19 Pro+ 5G,23698,6.43,Quad,8,4310
+Xiaomi Redmi 9 Power,11999,6.53,Quad,4,6000
+Motorola E7 Power 64GB,8299,6.5,Dual,4,5000
+Xiaomi Mi 11T 5G,43390,6.67,Triple,8,5000
+OPPO F19s,18989,6.43,Triple,6,5000
+Infinix Note 11S,13999,6.95,Triple,6,5000
+Samsung Galaxy A22 5G,17940,6.6,Triple,6,5000
+Samsung Galaxy S21,54900,6.2,Triple,8,4000
+Samsung Galaxy M62,N/A,6.7,Quad,8,7000
+Xiaomi Mi 11 Lite,21999,6.55,Triple,6,4250
+Motorola Edge X30 5G,37990,6.8,Triple,8,5000
+Infinix Note 10 Pro,16999,6.95,Quad,8,5000
+Motorola Edge S,N/A,6.7,Triple,6,5000
+OPPO Reno7,31490,6.43,Triple,8,4500
+Samsung Galaxy M31s,22989,6.5,Quad,6,6000
+Infinix Note 10 128GB,12499,6.95,Triple,6,5000
+Apple iPhone 11,49900,6.1,Dual,4,3110
+Vivo Y72 5G,20990,6.58,Dual,8,5000
+Poco POCO F3 GT,28999,6.67,Triple,6,5065
+Motorola G51 5G,14999,6.8,Triple,4,5000
+Vivo X60,34990,6.56,Triple,8,4300
+Samsung Galaxy M42 5G,22990,6.6,Quad,6,5000
+Xiaomi Mi 11 Pro,N/A,6.81,Triple,8,5000
+OnePlus Nord N10,N/A,6.49,Quad,6,4300
+Samsung Galaxy M52 5G 8GB RAM,31500,6.7,Triple,8,5000
+Poco POCO C31,8499,6.53,Triple,3,5000
+Realme 9i,11999,6.6,Triple,6,5000
+Xiaomi Redmi 9 Prime,11998,6.53,Quad,4,5020
+Poco POCO C31 64GB,9499,6.53,Triple,4,5000
+Motorola Edge 20 Pro,34999,6.7,Triple,8,4500
+Infinix Note 10,10999,6.95,Triple,4,5000
+Xiaomi 11 Lite NE 5G 8GB RAM,26799,6.55,Triple,8,4250
+Vivo Y21 2021 128GB,15490,6.51,Dual,4,5000
+Infinix Hot 11,9999,6.6,13MP,4,5200
+Vivo Y31 2021,16490,6.58,Triple,6,5000
+iQOO 7 12GB RAM,33990,6.62,Triple,12,4400
+Lava Agni 5G,19999,6.78,Quad,8,5000
+Infinix Hot 10 Play 3GB RAM,8299,6.82,13MP,3,6000
+OPPO Reno7 Pro,43190,6.55,Triple,8,4500
+OPPO A55 4G,15198,6.51,Triple,4,5000
+Vivo Y20G,14600,6.51,Triple,6,5000
+Poco POCO M3 Pro 5G 128GB,16499,6.5,Triple,6,5000
+OPPO A54,13489,6.51,Triple,4,5000
+Realme 7,14999,6.5,Quad,6,5000
+Samsung Galaxy M02,7999,6.5,Dual,2,5000
+Xiaomi Redmi 9A,7499,6.53,13MP,2,5000
+OnePlus Nord N20 5G,32990,6.43,Triple,6,4500
+iQOO 7 Legend,36990,6.62,Triple,8,4000
+Tecno Phantom X,18999,6.7,Triple,8,4700
+Realme 8 5G 64GB,15499,6.5,Triple,4,5000
+Realme GT 2 Pro 5G,45790,6.7,Triple,8,5000
+Vivo Y20T,15000,6.51,Triple,6,5000
+Xiaomi Mi 11X Pro,34245,6.67,Triple,8,4520
+OPPO A16,12697,6.52,Triple,4,5000
+Vivo Y12G 64GB,11990,6.51,Dual,3,5000
+Apple iPhone SE 3,45990,4.7,Dual,3,2821
+Samsung Galaxy A22,18199,6.4,Quad,6,5000
+Realme Narzo 30 5G 64GB,14999,6.5,Triple,4,5000
+Motorola G10 Power,12399,6.5,Quad,4,6000
+OPPO Reno5 Pro 5G,32499,6.55,Quad,8,4350
+Realme C25s,10999,6.5,Triple,4,6000
+Samsung Galaxy F42,20999,6.6,Triple,6,5000
+Samsung Galaxy A73 5G,29990,6.7,Quad,6,5000
+Vivo Y20G 64GB,12190,6.51,Triple,4,5000
+OPPO Reno6 Pro 5G Diwali Edition,41990,6.55,Quad,12,4500
+Xiaomi Redmi 9 Power 6GB RAM,13999,6.53,Quad,6,6000
+Realme 8 Pro 8GB RAM,19999,6.4,Quad,8,4500
+Samsung Galaxy A72,33999,6.7,Quad,8,5000
+Asus ROG Phone 5,49999,6.78,Triple,8,6000
+Apple iPhone 12 Mini,40999,5.4,Dual,4,2227
+Infinix Zero X Pro,21990,6.67,Triple,8,4500
+Google Pixel 5A,33490,6.34,Dual,6,4680
+Vivo X60 Pro,48990,6.56,Triple,12,4200
+Samsung Galaxy S21 FE,52190,6.4,Triple,6,4500
+OPPO F21 Pro,25990,6.5,Quad,8,4500
+Vivo V23 Pro 5G,38990,6.56,Triple,8,4300
+Xiaomi Mi 11T Pro 5G,56390,6.67,Triple,8,5000
+Vivo V20 Pro,27000,6.44,Triple,8,4000
+Vivo X60 Pro Plus,64590,6.56,Quad,12,4200
+Realme C25s 128GB,11499,6.5,Triple,4,6000
+Samsung Galaxy A52s 5G 8GB RAM,32480,6.5,Quad,8,4500
+Motorola G30,10999,6.5,Quad,4,5000
+Itel Magic 2 4G,2345,2.4,1.3MP,64MBRAM,1900
+Xiaomi Redmi Note 10T 128GB,17499,6.5,Triple,6,5000
+Realme GT Neo 2 5G 256GB,33999,6.62,Triple,12,5000
+Samsung Galaxy F41 128GB,17999,6.4,Triple,6,6000
+Tecno Pova 2 128GB,13499,6.95,Quad,6,7000
+OnePlus 8T,38894,6.55,Quad,8,4500
+Samsung Galaxy S21 Plus,66990,6.7,Triple,8,4800
+Samsung Galaxy M02s,9449,6.5,Triple,3,5000
+Sony Xperia Pro I,156990,6.5,Triple,12,4500
+Xiaomi Mi 10i,21999,6.67,Quad,6,4820
+Nokia 110 4G,2931,1.8,0.8MP,128MBRAM,1020
+Apple iPhone XR,34999,6.1,12MP,3,2942
+Realme C11,7499,6.52,Dual,2,5000
+Realme Narzo 30 Pro 128GB,19999,6.5,Triple,8,5000
+Micromax IN 2B,8499,6.52,Dual,4,5000
+Realme X7 Pro,28490,6.55,Quad,8,4500
+Samsung Galaxy M01 Core,4999,5.3,8MP,1,3000
+Poco POCO M4 Pro 5G,19690,6.6,Dual,4,5000
+Gionee Max Pro,6999,6.52,Dual,3,6000
+Vivo Y3s,9490,6.51,13MP,2,5000
+iQOO 7 256GB,31990,6.62,Triple,8,4400
+Samsung Galaxy Note 20 Ultra 5G,95850,6.9,Triple,12,4500
+Xiaomi Redmi 9,9099,6.53,Dual,4,5000
+OnePlus 9 256GB,54999,6.55,Triple,12,4500
+Samsung Galaxy A52 8GB RAM,24999,6.5,Quad,8,4500
+Samsung Galaxy A12 6GB RAM,14749,6.5,Quad,6,5000
+Xiaomi Redmi Note 10 5G,N/A,6.5,Triple,4,5000
+Xiaomi Mi Mix 4,N/A,6.67,Triple,8,4500
+OPPO A53 2020,10990,6.5,Triple,4,5000
+Lava A1 2021,1029,1.77,0.3MP,800mAhBattery,5000
+Infinix Note 11 Pro,17990,6.95,Triple,8,5000
+Poco POCO M2 Pro,13999,6.67,Quad,4,5020
+Xiaomi Redmi Note 9 Pro,12994,6.67,Quad,4,7000
+Samsung Galaxy F62 8GB RAM,25999,6.7,Quad,8,4500
+OnePlus 9 Pro 256GB,69999,6.7,Quad,12,5020
+Xiaomi Redmi Note 9,12968,6.53,Quad,4,1821
+Apple iPhone SE 2020 (iPhone SE 2),27999,4.7,12MP,3,5000
+Vivo Y12G,10699,6.51,Dual,3,4500
+OPPO Find X3 Pro,N/A,6.7,Quad,8,5000
+OPPO A53s 5G 8GB RAM,16490,6.52,Triple,8,4500
+Realme GT Neo,20190,6.43,Triple,6,5000
+Samsung Galaxy S22 Ultra,87999,6.8,Quad,12,5000
+Vivo Y20,12494,6.51,Triple,4,5000
+Vivo T1,23490,6.67,Triple,8,
+Apple iPhone 13 Mini,68900,5.4,Dual,4,2406
+Poco POCO C3,8499,6.53,Triple,3,5000
+Samsung Galaxy A53 5G,24990,6.52,Quad,6,4500
+Nokia C01 Plus,6199,5.45,5MP,2,3000
+OPPO F19,17990,6.43,Triple,6,5000
+Samsung Galaxy Z Fold 3,149999,7.6,Triple,12,4400
+OPPO Reno3 Pro,24990,6.4,Quad,8,4025
+Xiaomi Civi 5G,29690,6.55,Triple,8,4500
+Realme C25,9999,6.5,Triple,4,6000
+Vivo U10,8990,6.35,Triple,3,5000
+Vivo V21 Pro,N/A,6.44,Quad,8,4300
+Xiaomi Redmi K40 Pro,N/A,6.67,Triple,6,4520
+Realme Narzo 30A 64GB,9999,6.5,Dual,4,6000
+Samsung Galaxy A32 4G 8GB RAM,22480,6.4,Quad,8,5000
+Motorola Edge 20 Fusion 8GB RAM,22999,6.7,Triple,8,5000
+Realme 7 Pro,19998,6.4,Quad,6,4500
+Nokia G20,12399,6.5,Quad,4,5050
+Tecno Spark 8,8398,6.52,16MP,2,5000
+Samsung Galaxy A03s,10998,6.5,Triple,3,5000
+Vivo iQOO 8 Pro 5G,49990,6.78,Triple,8,4500
+Samsung Galaxy M33 5G,17999,6.5,Quad,6,6000
+Motorola G200,37990,6.8,Triple,8,5000
+iQOO 8 5G,43590,6.56,Triple,8,4350
+Vivo V21 5G 256GB,32990,6.44,Triple,8,4000
+Apple iPhone 12 Pro Max,109999,6.7,Triple,6,3687
+Vivo V20 SE,17500,6.44,Triple,8,4100
+Apple iPhone 13 Pro,117900,6.1,Triple,6,3095
+Poco POCO X3,15999,6.67,Quad,6,6000
+OPPO A55 5G,17490,6.5,Triple,6,5000
+Nokia 6300 4G,5995,2.4,0.3MP,512MBRAM,1500
+Realme Q3,15090,6.5,Triple,6,5000
+Realme 9 Pro Plus,21999,6.5,Quad,8,5000
+iQOO Z5 5G 256GB,26990,6.67,Triple,12,5000
+Tecno Camon 17,14490,6.8,Triple,6,5000
+OnePlus 7 Pro,41990,6.67,Triple,6,4000
+Nokia 6310,3427,2.8,0.3MP,16MBRAM,1150
+Vivo Y51A,16500,6.58,Triple,8,5000
+OnePlus 10,53499,6.55,Triple,8,4500
+Samsung Galaxy M31,18490,6.4,Quad,6,6000
+OnePlus Nord,27999,6.44,Quad,8,4115
+Samsung Galaxy A32,N/A,6.5,Quad,4,5000
+Realme XT,16999,6.4,Quad,4,4000
+Motorola G71 5G,18999,6.4,Triple,6,5000
+Samsung Galaxy S22,89999,6.09,Triple,8,3700
+OnePlus 8 Pro,54999,6.78,Quad,8,4510
+Poco POCO F3 GT 256GB,30999,6.67,Triple,8,5065
+Sony Xperia Ace 2,14890,5.5,Dual,4,4500
+OPPO X 2021,135000,7.4,Triple,8,4000
+Vivo Y51 2020,17994,6.58,Triple,8,5000
+Samsung Galaxy Note 10 Lite,28999,6.7,Triple,6,4500
+OPPO A15s,11988,6.52,Triple,4,4230
+OPPO A15,9798,6.52,Triple,3,4230
+Vivo V23e 5G,22999,6.44,Triple,8,4050
+Realme X7 Max 256GB,29999,6.43,Triple,12,4500
+Realme X7 8GB RAM,20499,6.4,Triple,8,4310
+Samsung Galaxy M02 3GB RAM,8499,6.5,Dual,3,5000
+Poco POCO X4,18999,6.67,Quad,6,6000
+Xiaomi Mi 11,N/A,6.81,Triple,8,4600
+Huawei P50 Pro,N/A,6.6,Quad,8,4360
+Samsung Galaxy A51,19499,6.5,Quad,6,4000
+Apple iPhone X,89000,5.8,Dual,3,2716
+Samsung Galaxy M22,N/A,6.4,Quad,4,5000
+OnePlus Nord 256GB,29994,6.44,Quad,12,4115
+Samsung Galaxy S20 Plus,49994,6.7,Triple,8,4500
+Nokia 5.4,11999,6.39,Quad,4,4000
+Samsung Galaxy A32 4G,21999,6.4,Quad,6,5000
+Samsung Guru Music 2,1450,2.0,800mAhBattery,4,5000
+Samsung Galaxy A13,18790,6.5,Triple,8,5065
+Poco POCO F3 GT 8GB RAM,28999,6.67,Triple,4,3046
+Apple iPhone 11 Pro,96800,5.8,Triple,8,4015
+OPPO F17 Pro,19990,6.43,Quad,8,5000
+Vivo Y53s 4G,18390,6.58,Triple,6,3140
+Google Pixel 4A,28999,5.81,12.2MP,6,4352
+Apple iPhone 13 Pro Max 1TB,179900,6.7,Triple,6,5000
+Realme V3,10690,6.52,Triple,8,3300
+Samsung Galaxy Z Flip 3,78850,6.7,Dual,8,4500
+OnePlus 9T,44999,6.55,Quad,6,4820
+Xiaomi Redmi Note 9 Pro 5G,N/A,6.67,Quad,8,4000
+OPPO F15,21290,6.4,Quad,4,4000
+Xiaomi Redmi Note 8,11999,6.3,Quad,,
+Samsung Galaxy S20 FE,36999,6.5,Triple,8,4500
+Nokia X60 5G,39990,6.51,Quad,6,6000
+Apple iPhone 13 512GB,109900,6.1,Dual,4,3227
+DIZO Star 300,1095,1.77,0.08MP,32MBRAM,2550
+Xiaomi Mi 10T,21694,6.67,Triple,6,5000
+Nokia XR20,46417,6.67,Dual,6,4630
+Gionee K10,6999,6.8,13MP,6,4800
+Realme 7i,13999,6.5,Quad,4,5000
+Realme Narzo 20,12799,6.5,Triple,4,6000
+Xiaomi Redmi Note 11T 5G 128GB,17999,6.6,Dual,6,5000
+OPPO F19 Pro 256GB,22990,6.43,Quad,8,4310
+OPPO K9s,19990,6.59,Triple,6,5000
+Samsung Galaxy Note 20,44999,6.7,Triple,8,4300
+Vivo Y20A,10999,6.51,Triple,3,5000
+Reliance JioPhone 2021,1745,2.4,2MP,512MBRAM,1500
+Reliance JioPhone,1500,2.4,2MP,512MBRAM,2000
+Samsung Galaxy A22 5G 8GB RAM,20850,6.6,Triple,8,5000
+Xiaomi Mi 12 Pro,55190,6.73,Triple,8,4600
+Apple iPhone 13 Pro Max 256GB,138400,6.7,Triple,6,4352
+Xiaomi Mi 10i 128GB,21999,6.67,Quad,6,4820
+Lava A1 Josh 21,1055,1.77,800mAhBattery,3,5100
+Xiaomi Redmi 10A,7499,6.52,Dual,6,4000
+Asus Zenfone 8,44190,5.9,Dual,4,3227
+Apple iPhone 13 256GB,88400,6.1,Dual,8,4500
+OPPO Reno7 SE 5G,25690,6.43,Triple,6,5000
+Micromax IN 2B 6GB RAM,9499,6.52,Dual,6,4000
+Gionee M12 Pro,N/A,6.2,16MP,4,5000
+Xiaomi Redmi 9i,8499,6.53,13MP,16,5000
+Samsung Galaxy S21 Ultra 512GB,95999,6.8,Quad,6,4470
+Nokia X100 5G,18490,6.67,Quad,6,4500
+Samsung Galaxy A52 5G,34990,6.5,Quad,8,4100
+Samsung Galaxy S10 Plus,51990,6.4,Triple,6,4500
+Motorola Edge S Pro,28790,6.7,Triple,4,5000
+Samsung Galaxy A12 128GB,13999,6.5,Quad,6,5020
+Xiaomi Redmi Note 9 Pro Max,15499,6.67,Quad,8,4500
+Infinix Zero X,16990,6.67,Triple,6,5000
+OPPO A54 6GB RAM,15990,6.51,Triple,4,6000
+Samsung Galaxy M21,13990,6.4,Triple,4,4000
+Samsung Galaxy A50s,18570,6.4,Triple,4,3815
+Apple iPhone 14,99990,6.7,Dual,,
+Realme 8 Pro 5G,21999,6.4,Quad,6,4500
+Motorola Moto G 5G,21890,6.7,Triple,6,5000
+OPPO A54 128GB,14480,6.51,Triple,4,5000
+Lenovo Legion Pro 2,54999,6.92,Dual,12,5500
+Xiaomi Redmi Note 9 Pro Max 128GB,18499,6.67,Quad,6,5020
+Xiaomi Redmi Note 8 Pro,14872,6.53,Quad,6,4500
+Nokia 2720 2019,9700,2.8,2MP,512MBRAM,1500
+Poco POCO X2,18156,6.67,Quad,6,4500
+Nokia 3.4,10749,6.39,Triple,4,4000
+iQOO Neo 5 5G,N/A,6.62,Triple,8,4400
+Poco POCO X4 Pro,24990,6.67,Quad,6,6000
+OPPO F17,16294,6.44,Quad,6,4015
+Nokia X50,35990,6.5,Quad,6,6000
+Samsung Galaxy F02s,9499,6.5,Triple,3,5000
+Realme Q2,14290,6.5,Triple,4,5000
+Motorola Edge S30 5G,23790,6.8,Triple,6,5000
+Nokia G50 5G,19949,6.82,Triple,4,5000
+Realme C25 128GB,14500,6.5,Triple,4,6000
+Apple iPhone 12 Pro,94900,6.1,Triple,6,2815
+Kechao K66 The Music House 4,1150,1.8,1.3MP,400mAhBattery,4310
+OPPO A95 5G,N/A,6.43,Triple,8,4500
+Samsung Galaxy A71,25494,6.7,Quad,8,5000
+Samsung Galaxy A31,16999,6.4,Quad,6,5000
+Vivo Y21s,N/A,6.5,Triple,4,4500
+Samsung Galaxy F52 5G,N/A,6.6,Quad,8,4000
+Samsung Galaxy A50,16549,6.4,Triple,4,5000
+Samsung Galaxy S20 Ultra,97999,6.9,Triple,12,4000
+Vivo V21,N/A,6.44,Triple,8,5000
+Micromax IN Note 1,9499,6.67,Quad,4,4500
+Vivo S1,14490,6.38,Triple,4,1200
+Samsung Metro B350E,3000,2.4,2MP,32MBRAM,3000
+Samsung Galaxy M01 Core 32GB,5999,5.3,8MP,2,5000
+Samsung Galaxy A33 5G,24990,6.4,Quad,6,4800
+Google Pixel 6 XL,74990,6.2,Triple,8,4520
+Poco POCO F3,N/A,6.67,Triple,6,5000
+Motorola E7 Power,8990,6.5,Dual,2,4500
+Vivo V19,22450,6.44,Quad,8,4030
+Xiaomi Mi A3,13999,6.08,Triple,4,4352
+Apple iPhone 13 Pro Max 512GB,159900,6.7,Triple,6,4500
+Vivo V17,21470,6.44,Quad,8,
+Xiaomi Mi 11X Pro 256GB,38999,6.67,Triple,8,4520
+Apple iPhone 7,29500,4.7,12MP,2,1960
+Vivo V17 Pro,25000,6.44,Quad,8,4100
+Samsung Galaxy F41,15999,6.4,Triple,6,6000
+Vivo X70 Pro 256GB,49990,6.56,Quad,8,4450
+Micromax IN 1,10499,6.67,Triple,4,5000
+Tecno Spark Go 2021,7299,6.52,13MP,2,5000
+OnePlus 7T,37990,6.55,Triple,8,3800
+Realme Race,N/A,6.5,Quad,8,4500
+Xiaomi Redmi K30 Ultra,N/A,6.67,Quad,6,4500
+Nubia Red Magic 6 Pro,49590,6.8,Triple,12,4500
+Samsung Galaxy A12 Exynos 850 128GB,14688,6.5,Quad,6,5000
+Vivo S12 Pro,40290,6.56,Triple,8,4300
+Samsung Galaxy A03s 64GB,11999,6.5,Triple,4,5000
+Samsung Galaxy A10,8499,6.2,13MP,2,3400
+OPPO A33 2020,10490,6.5,Triple,3,5000
+Micromax X389,985,1.77,0.3MP,1000mAhBattery,4000
+LG Wing,39999,6.8,Triple,8,6000
+Realme G1,7999,6.52,Triple,3,5000
+Samsung Galaxy A21s,14990,6.5,Quad,4,5000
+Karbonn K9 Max,1354,2.6,2MP,2500mAhBattery,5000
+Samsung Galaxy F42 8GB RAM,22999,6.6,Triple,8,5000
+Vivo Y51A 6GB RAM,15499,6.58,Triple,6,2915
+Lava Z6,9699,6.51,Triple,6,4500
+Google Pixel 3,24099,5.5,12.2MP,4,4300
+Realme Q3 Pro,18590,6.43,Triple,6,3095
+Huawei Nova 9,30890,6.57,Quad,8,5000
+Apple iPhone 13 Pro 512GB,148400,6.1,Triple,6,4352
+OPPO A55 4G 128GB,17189,6.51,Triple,6,4400
+Apple iPhone 14 Pro Max,140000,6.7,Triple,8,4030
+Vivo X70,42190,6.56,Triple,8,4000
+Vivo Y1s 3GB RAM,8599,6.22,13MP,3,4000
+Xiaomi Redmi K20,19990,6.39,Triple,6,3700
+Vivo V21e,N/A,6.44,Triple,8,4500
+Vivo V15 Pro,21499,6.39,Triple,6,4250
+Nokia 2720 Fold,5589,1.8,1.3MP,860mAhBattery,5000
+Samsung E1200,999,1.5,800mAhBattery,8,
+OPPO Reno 6 Pro Plus 5G,N/A,6.55,Quad,8,
+Xiaomi Mi 11 Lite 8GB RAM,23999,6.55,Triple,4,
+Samsung Galaxy M02s 64GB,11990,6.5,Triple,,
+Apple iPhone 8 Plus,49900,5.5,Dual,3,2675
+Xiaomi Mi 12 Ultra,72999,6.9,Quad,12,5300
+Apple iPhone 11 128GB,54900,6.1,Dual,4,3110
+Xiaomi Redmi K20 Pro,25490,6.39,Triple,6,4000
+Samsung Galaxy A03 Core,7975,6.5,8MP,2,5000
+Nokia X20,N/A,6.67,Quad,6,4470
+Samsung Galaxy M51 8GB RAM,29999,6.7,Quad,8,7000
+Samsung Galaxy Note 10 Plus (Galaxy Note 10 Pro),62990,6.8,Triple,12,4300
+Lenovo Legion,37390,6.65,Dual,8,5000
+Samsung Galaxy S10,37990,6.1,Triple,8,3400
+OnePlus Nord SE,N/A,6.3,Quad,4,4500
+Apple iPhone 7 Plus,35999,5.5,Dual,3,2900
+Realme 6,15889,6.5,Quad,4,4300
+Nokia G10,12149,6.5,Triple,4,5050
+Samsung Galaxy S9 Plus,40990,6.2,Dual,6,3500
+Apple iPhone 8,38999,4.7,12MP,2,1821
+Poco F1,16999,6.18,Dual,6,4000
+OnePlus 8,42999,6.55,Triple,6,4300
+Reliance Jio Phone 5,4999,5.0,8MP,1,3000
+Lava Hero 600 Plus,878,1.8,620mAhBattery,6,4500
+Sony Xperia 10 III,34999,6.0,Triple,8,4500
+OPPO Find N 5G,91990,7.1,Triple,12,4450
+Vivo X70 Pro 12GB RAM,52990,6.56,Quad,8,4085
+OnePlus 7T Pro,45915,6.67,Triple,2500mAhBattery,4000
+Micromax X755,1121,2.4,0.3MP,4,1560
+Xiaomi Redmi Note 7 Pro,12997,6.3,Dual,1,5000
+Apple iPhone 5s 16GB,8999,4,8MP,3,4500
+Samsung Galaxy M11,11399,6.4,Triple,12,5000
+Realme GT 5G 256GB,39999,6.43,Triple,4,5000
+Tecno Spark 7 Pro,10999,6.6,Dual,8,4500
+Vivo Y50,15500,6.53,Quad,8,5000
+Vivo S1 Pro,19990,6.38,Quad,8,5200
+Poco POCO X3 GT,N/A,6.6,Triple,6,5000
+Infinix Hot 10,11999,6.78,Triple,3,4050
+Samsung Galaxy A03,9990,6.5,Dual,8,5000
+Vivo S10 5G,N/A,6.44,Triple,6,5000
+Xiaomi Redmi K50,27990,6.7,Triple,3,4000
+Realme 5,10900,6.5,Quad,2,4750
+Xiaomi Redmi 7,7998,6.26,Dual,8,
+Tecno Camon 18 Premier,19999,6.7,Triple,,
+Doogee V10 5G,38500,6.39,Triple,8,8500
+Realme Narzo 20A,10999,6.5,Triple,3,5000
+Vivo T1x,18790,6.58,Dual,6,5000
+Itel A26,5900,5.7,5MP,2,3020
+Realme C15,11999,6.52,Quad,3,6000
+Tecno Spark 6 Go,9599,6.52,13MP,4,5000
+Realme 6 Pro,18990,6.6,Quad,6,4300
+OPPO A94,N/A,6.43,Quad,8,4310
+OPPO K9 Pro 5G,25090,6.43,Triple,8,4500
+Tecno Camon 18,15999,6.8,Dual,4,5000
+Nokia 5.4 6GB RAM,14490,6.39,Quad,6,4000
+OPPO A52,17999,6.5,Quad,6,5000
+OnePlus 6T 8GB RAM,27999,6.41,Dual,8,3700
+Qin 1s AI Phone,8099,2.8,256MBRAM,1480mAhBattery,4700
+iQOO 9,47190,6.78,Triple,8,4600
+ZTE Axon 30 Ultra,N/A,6.67,Quad,8,3000
+Yu Yutopia,5590,5.2,21MP,4,4230
+I KALL K14 2021,679,1.8,1000mAhBattery,4,5000
+OPPO A15s 128GB,13990,6.52,Triple,8,4500
+Xiaomi Mi 10T Pro,34600,6.67,Triple,8,2815
+Realme X9 Pro,24999,6.55,Triple,4,3000
+Apple iPhone SE Plus,36490,6.1,12MP,4,4000
+Samsung Galaxy S8,30749,5.8,12MP,3,4780
+Samsung Galaxy M01,7499,5.71,Dual,8,4500
+Xiaomi Mi 10,49999,6.67,Quad,8,2400
+Xiaomi Mi 12,43390,6.28,Triple,1,2658
+Itel A23 Pro,3929,5.0,2MP,4,4200
+Apple iPhone XS,62998,5.8,Dual,1750mAhBattery,6000
+Micromax X754,1799,2.4,0.3MP,8,6000
+Vivo X50,30499,6.56,Quad,2,5000
+Tecno Spark 6 Air,7790,7.0,Dual,4,5000
+OnePlus Clover,14999,6.52,Triple,4,4000
+Vivo Z1 Pro,19999,6.53,Triple,4,6000
+Vivo Y15 2019,12500,6.35,Triple,8,5000
+OPPO Reno 2F,25849,6.5,Quad,4,4000
+Motorola Moto G9 Power,11999,6.8,Triple,6,4100
+Realme Q3s,18790,6.6,Triple,4,5000
+Samsung Galaxy A30,14429,6.4,Dual,8,
+Vivo Y76s,20890,6.58,Dual,2,
+Itel Vision 2S,6888,6.52,Dual,,
+Gfive U707 Plus,749,1.8,0.3MP,1000mAhBattery,4300
+Vivo X60 256GB,39990,6.56,Triple,12,5000
+Realme Q2i,10890,6.52,Triple,4,5000
+Xiaomi Redmi Note 11T 5G 8GB RAM,19999,6.6,Dual,8,4500
+Realme GT Master Explorer Edition,N/A,6.55,Triple,8,5000
+Infinix Zero X Neo,N/A,6.78,Triple,8,4000
+Realme C2,7890,6.1,Dual,2,5020
+Xiaomi Mi Mix Fold,111790,8,Triple,12,4230
+OPPO A12,8750,6.22,Dual,3,3000
+I KALL Z5,4999,5.45,8MP,3,6000
+Samsung Galaxy M31 8GB RAM,21989,6.4,Quad,8,2200
+Xiaomi Redmi 2,4990,4.7,8MP,1,5000
+Motorola G41,21090,6.4,Triple,4,4000
+Motorola A10,1299,1.8,1500mAhBattery,4,5000
+Xiaomi Redmi Note 5 Pro,12980,5.99,Dual,4,4500
+Xiaomi Redmi Note 11 4G,11790,6.5,Triple,6,4400
+Samsung Galaxy A82 5G,N/A,6.71,Triple,16,4400
+Samsung W22 5G,198790,7.6,Triple,12,5000
+Samsung Galaxy Z Fold 3 512GB,157999,7.6,Triple,6,4315
+Poco POCO M2,10499,6.53,Quad,8,4500
+Vivo X50 Pro,54990,6.56,Quad,8,4000
+Samsung Galaxy S10 Lite,41970,6.7,Triple,8,15600
+Samsung Guru Plus B110E,1375,1.5,800mAhBattery,8,4030
+OPPO Reno 2,38990,6.5,Quad,2,4500
+Oukitel WP15 5G,43500,6.52,Triple,8,4500
+Vivo Y91i 32GB,7990,6.22,13MP,8,5000
+Vivo Y50T,15990,6.53,Triple,4,4200
+Xiaomi Mi 10 Ultra,N/A,6.67,Quad,8,4500
+LG W41,15490,6.5,Quad,6,4500
+Huawei P30 Pro,71990,6.47,Triple,8,4000
+Vivo Y70t,N/A,6.53,Triple,3,6000
+Nubia Red Magic 6S Pro 5G,45290,6.8,Triple,4,4500
+Samsung Galaxy A20,11490,6.4,Dual,6,4950
+Xiaomi Redmi 9T,N/A,6.53,Quad,2,4035
+Samsung Galaxy Quantum 2 5G,46960,6.7,Triple,4,4050
+Nokia C20 Plus,7999,6.5,Dual,12,4500
+Realme 5 Pro,13940,6.3,Quad,6,3700
+Vivo S10 Pro,N/A,6.44,Triple,6,
+Realme Narzo 20 Pro,14999,6.5,Quad,,
+OnePlus 7,34999,6.41,Dual,,
+Vivo Y20 6GB RAM,12994,6.51,Triple,6,5000
+Google Pixel 3 XL,20930,6.3,12.2MP,4,3430
+HPL Mega A35,1190,3.5,2MP,256MBRAM,1400
+Nokia 215 2020,3198,2.4,64MBRAM,1150mAhBattery,6000
+Lava Z2 Max,7799,7.0,Dual,2,4230
+I KALL K34 2020,690,1.8,0.3MP,800mAhBattery,6000
+OPPO A31 2020,12198,6.5,Triple,4,6000
+Nokia C30,9999,6.82,Dual,3,5000
+Samsung Galaxy M31s 8GB RAM,24999,6.5,Quad,8,2815
+Motorola G31 128GB,14999,6.4,Triple,6,6000
+Apple iPhone 12 128GB,64999,6.1,Dual,4,4000
+Asus ROG Phone 3,46999,6.59,Triple,8,3600
+LG K42,10990,6.6,Quad,3,5000
+Samsung Galaxy J7 Pro,20995,5.5,13MP,3,5000
+Samsung Galaxy M42 5G 8GB RAM,21499,6.6,Quad,8,6000
+Vivo Y21 2020,N/A,6.5,Dual,4,4030
+Samsung Galaxy M30s,14999,6.4,Triple,4,4440
+Vivo Y1s,7999,6.22,13MP,2,3300
+iQOO 3,37990,6.44,Quad,8,3000
+OnePlus 6,27999,6.28,Dual,6,2942
+Tecno Spark Go,5599,6.1,8MP,2,5000
+Apple iPhone XR 128GB,40999,6.1,12MP,3,4000
+Realme C3,9490,6.5,Dual,3,5000
+Samsung Galaxy Note 9,63000,6.4,Dual,6,3969
+Motorola One Fusion Plus,17499,6.5,Quad,6,5000
+Apple iPhone 11 Pro Max,106137,6.5,Triple,4,5000
+OPPO Reno 6 Lite,14999,6.43,Triple,8,5000
+Lava Z2 3GB RAM,7999,6.51,Dual,3,5160
+Samsung Galaxy A12s,11999,6.52,Quad,4,5000
+Xiaomi Mi 11i,24999,6.67,Triple,6,4500
+Vivo U20,15000,6.53,Triple,4,4500
+Vivo Z1x,14990,6.38,Triple,6,4000
+Black Shark 4,27790,6.67,Triple,6,5000
+OPPO F11 Pro,22989,6.5,Dual,6,5000
+Motorola G100,N/A,6.7,Triple,8,4045
+Micromax IN 1 128GB,14839,6.67,Triple,6,4000
+Realme 3 Pro,15999,6.3,Dual,4,3300
+I KALL K380,5999,7.12,13MP,4,4800
+Samsung Galaxy A7 2018,17990,6.0,Triple,4,
+Honor 60 Pro 5G,43490,6.78,Triple,8,
 
