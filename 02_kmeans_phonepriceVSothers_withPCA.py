@@ -4,14 +4,26 @@ from sklearn.preprocessing import LabelEncoder
 import matplotlib.pyplot as plt
 import numpy as np
 from sklearn.decomposition import PCA
+from UtilityFunctions00 import *
 
 
 #import csv file
-data=pd.read_csv("phone_details.csv")
-data=data.iloc[:,[1,2,4,5]] #ignore 'camera' for now
-#data.info()
+data=pd.read_csv("phone_details_upd.csv",na_values=["N/A"," "])
+#data=data.iloc[:,[1,2,4,5]] #ignore 'camera' for now
+data.info()
 print()
 print(data.head())
+
+#pre-process "camera" column
+data=data_preprocessing(data)
+data.info()
+print()
+print(data.head())
+
+#take all columns except "PhoneName"
+data=data.iloc[:,1:]
+print(data.head())
+
 
 # Include all feature and use PCA to extract two principal components
 #apply PCA
@@ -29,7 +41,7 @@ plt.show()
 '''
 
 #fit the model
-model=KMeans(n_clusters=2)
+model=KMeans(n_clusters=5)
 print(model)
 model.fit_predict(data)
 
@@ -52,6 +64,7 @@ data=pd.DataFrame(data=data)
 data.columns=["PC1","PC2"]
 print(data)
 
+#insert labels against each observation
 data.insert(2,"label",labels)
 print(type(data),data)
 
@@ -62,6 +75,13 @@ for i in np.unique(labels):
 plt.legend()
 
 plt.scatter(model.cluster_centers_[:,0],model.cluster_centers_[:,1],s=100,c='red')
-plt.show()
 
+#format plot
+plt.xlabel("PC1 -> ")
+plt.ylabel("PC2 -> ")
+plt.title("Mobile Price Vs Features")
+plt.tight_layout()
+
+
+plt.show()
 
