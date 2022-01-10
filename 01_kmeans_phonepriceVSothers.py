@@ -14,7 +14,6 @@ data.info()
 data=data.dropna()
 data.info()
 
-
 '''
 #plot the raw data
 plt.scatter(data.iloc[:,1],data.iloc[:,5])

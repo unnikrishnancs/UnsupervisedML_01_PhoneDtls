@@ -69,11 +69,12 @@ data.insert(2,"label",labels)
 print(type(data),data)
 
 
-# all clusters
+#plot clusters
 for i in np.unique(labels):
 	plt.scatter(data[labels==i].iloc[:,0],data[labels==i].iloc[:,1],label="Cluster"+str(i))
 plt.legend()
 
+#plot cluster centers
 plt.scatter(model.cluster_centers_[:,0],model.cluster_centers_[:,1],s=100,c='red')
 
 #format plot

@@ -34,37 +34,6 @@ def data_preprocessing(data):
 	
 	#join input features
 	inp_feat=pd.concat([df_oth,data_newdf],axis=1)
-	
-	'''
-	if feat_scale=="Y":		
-		msg="With Feature Scaling; "
-		#print("------------Scale input features-----------")
-		#print("Before Scaling")
-		#print()
-		#print(inp_feat.head())
-		inp_feat=scale_features(inp_feat)
-		#print("After Scaling")
-		#print()
-		#print(inp_feat.head())
-	else:
-		msg="No Feature Scaling; "	
-	
-	print("----------Convert label to numeric---------------")
-	print()
-	
-	if label_method=="LE":
-		#use LabelEncoder..returns Series object
-		labels,l2n=convert_labels_to_num(data_bkup)
-		msg+="With LabelEncoder; "
-	elif label_method=="LB":
-		pass
-		
-		
-		#use LabelBinarizer...returns numpy array
-		labels,l2n=convert_labels_to_num(data_bkup,"LB")
-		msg+="With LabelBinarizer; "
-		'''
-	
 		
 	return inp_feat
 	

@@ -3,6 +3,7 @@ import requests
 import pandas as pd
 import re
 
+
 #url="https://pricebaba.com/mobile/pricelist/all-mobiles-sold-in-india"
 url="https://pricebaba.com/mobile/pricelist/all-mobiles-sold-in-india?page=16"
 
